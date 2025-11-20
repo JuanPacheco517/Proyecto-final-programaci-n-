@@ -1,4 +1,3 @@
-# Proyecto-final-programaci-n-
 Proyecto Final – Programación
 
 Mateo Morales, Juan Pachecho, Juan Camacho
