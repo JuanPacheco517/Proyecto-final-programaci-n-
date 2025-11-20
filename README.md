@@ -28,3 +28,5 @@ Power BI para construir un dashboard sencillo
 El objetivo principal es demostrar el proceso completo:
 dataset → limpieza → análisis visual.
 
+
+
